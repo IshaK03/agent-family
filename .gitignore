@@ -1,0 +1,3 @@
+# Ignore environment variable files
+google-adk/.env
+google-adk/venv-adk
