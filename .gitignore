@@ -2,3 +2,7 @@
 google-adk/.env
 google-adk/venv-adk
 google-adk/__pycache__
+
+mcp-adk-agent/.env
+mcp-adk-agent/mcp-adk-venv
+mcp-adk-agent/__pycache__

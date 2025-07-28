@@ -65,3 +65,9 @@ root_agent = Agent(
     ),
     tools=[get_weather, get_current_time],
 )
+
+
+'''
+Run using command "adk run google-adk" in the terminal.
+Basically, adk run dir-name-of-agent
+'''
